@@ -1,0 +1,10 @@
+Processing Step Report
+ID: PS-002
+Batch: BATCH-002
+Facility: FAC-02 (Ajmer Grinding Facility)
+Step: Grinding
+Start: 2025-09-15T09:00:00+05:30
+End: 2025-09-15T12:30:00+05:30
+Conditions: Grinder speed 1500 rpm, sieve size 2mm
+Operator: OP-02 (Sunita Mehra)
+Notes: Ground into fine powder, sealed in bags, photo evidence available.

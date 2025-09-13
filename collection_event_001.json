@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0",
+  "resourceType": "CollectionEvent",
+  "id": "COL-001",
+  "species": "Withania somnifera", 
+  "collectorId": "C-001",
+  "cooperativeId": "COOP-ASH1",
+  "lat": 26.912433,
+  "lon": 75.787270,
+  "timestamp": "2025-09-13T09:15:00+05:30",
+  "quantityKg": 12.5,
+  "method": "wild",
+  "photoHash": "sha256:abcdef123456...",
+  "initialQuality": { "moisturePct": 9.2 }
+}

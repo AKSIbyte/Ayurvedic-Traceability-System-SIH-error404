@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "1.0",
+  "resourceType": "ProcessingStep",
+  "id": "PS-001",
+  "batchId": "BATCH-001",
+  "facilityId": "FAC-01",
+  "stepType": "drying",
+  "startTime": "2025-09-14T10:00:00+05:30",
+  "endTime": "2025-09-14T16:00:00+05:30",
+  "conditions": {
+    "tempC": 45,
+    "humidityPct": 20
+  },
+  "operatorId": "OP-01",
+  "evidenceHash": "sha256:proc001abc...",
+  "createdBy": "processor-app-v1"
+}

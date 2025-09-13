@@ -1,0 +1,13 @@
+Lab Report
+Lab: GreenLeaf Analytics (LAB-GL01)
+Report ID: QT-001
+Sample: BATCH-001
+Test Type: Pesticide Residue
+Date: 2025-09-15T10:50:00+05:30
+
+Results:
+- Glyphosate: 0.12 mg/kg (Limit: 0.5) -> PASS
+- Chlorpyrifos: 0.005 mg/kg (Limit: 0.01) -> PASS
+
+Overall Conclusion: PASS
+Signature: Dr. A. Rao

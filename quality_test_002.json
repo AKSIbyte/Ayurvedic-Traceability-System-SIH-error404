@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "1.0",
+  "resourceType": "QualityTest",
+  "id": "QT-002",
+  "labId": "LAB-BIO02",
+  "batchId": "BATCH-002",
+  "testType": "dna",
+  "results": {
+    "rbcL_sequence": {
+      "match": "98%",
+      "species": "Ocimum tenuiflorum",
+      "pass": true
+    },
+    "matK_sequence": {
+      "match": "97%",
+      "species": "Ocimum tenuiflorum",
+      "pass": true
+    }
+  },
+  "certHash": "sha256:def456...",
+  "timestamp": "2025-09-15T12:05:00+05:30",
+  "passFail": true,
+  "createdBy": "lab-parser-v1"
+}

@@ -1,0 +1,10 @@
+Processing Step Report
+ID: PS-001
+Batch: BATCH-001
+Facility: FAC-01 (Jaipur Drying Unit)
+Step: Drying
+Start: 2025-09-14T10:00:00+05:30
+End: 2025-09-14T16:00:00+05:30
+Conditions: Temp 45°C, Humidity 20%
+Operator: OP-01 (Anil Sharma)
+Notes: Dried in solar dryer, photo evidence available.

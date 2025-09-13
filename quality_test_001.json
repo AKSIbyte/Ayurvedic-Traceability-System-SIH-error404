@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "1.0",
+  "resourceType": "QualityTest",
+  "id": "QT-001",
+  "labId": "LAB-GL01",
+  "batchId": "BATCH-001",
+  "testType": "pesticide",
+  "results": {
+    "Glyphosate": {
+      "value": 0.12,
+      "unit": "mg/kg",
+      "limit": 0.5,
+      "pass": true
+    },
+    "Chlorpyrifos": {
+      "value": 0.005,
+      "unit": "mg/kg",
+      "limit": 0.01,
+      "pass": true
+    }
+  },
+  "certHash": "sha256:abc123...",
+  "timestamp": "2025-09-15T10:50:00+05:30",
+  "passFail": true,
+  "createdBy": "lab-parser-v1"
+}

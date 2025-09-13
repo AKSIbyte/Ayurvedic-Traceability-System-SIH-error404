@@ -1,0 +1,13 @@
+Lab Report
+Lab: BioID Labs (LAB-BIO02)
+Report ID: QT-002
+Sample: BATCH-002
+Test Type: DNA Barcoding
+Date: 2025-09-15T12:05:00+05:30
+
+Results:
+- rbcL sequence: 98% match Ocimum tenuiflorum -> PASS
+- matK sequence: 97% match Ocimum tenuiflorum -> PASS
+
+Overall Conclusion: PASS (species verified)
+Signature: Dr. N. Verma

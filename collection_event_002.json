@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0",
+  "resourceType": "CollectionEvent",
+  "id": "COL-002",
+  "species": "Ocimum tenuiflorum", 
+  "collectorId": "C-002",
+  "cooperativeId": "COOP-ASH1",
+  "lat": 26.915000,
+  "lon": 75.789500,
+  "timestamp": "2025-09-13T09:45:00+05:30",
+  "quantityKg": 8.0,
+  "method": "cultivated",
+  "photoHash": "sha256:123abc789xyz...",
+  "initialQuality": { "moisturePct": 11.0 }
+}

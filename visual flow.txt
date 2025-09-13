@@ -1,0 +1,10 @@
+Collector (collectorId)  
+     ↓  
+CollectionEvent (collectorId → batchId)  
+     ↓  
+ProcessingStep (batchId)  
+     ↓  
+QualityTest (batchId)  
+     ↓  
+Provenance (links all IDs)
+

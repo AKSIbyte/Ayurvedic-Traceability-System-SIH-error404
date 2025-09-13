@@ -1,0 +1,10 @@
+Collection Event Report
+ID: COL-002
+Collector: C-002 (Sita Devi)
+Species: Ocimum tenuiflorum (Tulsi)
+Cooperative: COOP-ASH1
+GPS: 26.915000, 75.789500
+Timestamp: 2025-09-13T09:45:00+05:30
+Quantity: 8.0 kg
+Method: cultivated
+Initial Moisture: 11.0%

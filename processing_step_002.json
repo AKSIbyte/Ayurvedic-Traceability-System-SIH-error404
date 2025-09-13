@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "1.0",
+  "resourceType": "ProcessingStep",
+  "id": "PS-002",
+  "batchId": "BATCH-002",
+  "facilityId": "FAC-02",
+  "stepType": "grinding",
+  "startTime": "2025-09-15T09:00:00+05:30",
+  "endTime": "2025-09-15T12:30:00+05:30",
+  "conditions": {
+    "grinderSpeedRpm": 1500,
+    "sieveSizeMm": 2
+  },
+  "operatorId": "OP-02",
+  "evidenceHash": "sha256:proc002def...",
+  "createdBy": "processor-app-v1"
+}
